@@ -1,0 +1,19 @@
+{
+  "name": "siskinjs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "siskin.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishaszu/siskinjs.git"
+  },
+  "author": "mishaszu@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishaszu/siskinjs/issues"
+  },
+  "homepage": "https://github.com/mishaszu/siskinjs#readme"
+}
